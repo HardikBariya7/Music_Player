@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/add_like_icon.xml" value="0.149" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/background_custom.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/background_custom_2.xml" value="0.154" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/border_image.xml" value="0.14" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/forward_vector.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/ic_heart_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1645" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1645" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/ic_repeat_svgrepo_com.xml" value="0.1645" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/img_border.xml" value="0.14" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/like_icon.xml" value="0.149" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/liked_icon.xml" value="0.149" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/pause_vector.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/play_vector.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/playlist_vector.xml" value="0.149" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/previous_vector.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/repeat_icon.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/repeat_vector.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/shuffle_icon.xml" value="0.1645" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/shuffle_vector.xml" value="0.136" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/side_nav_bar.xml" value="0.1645" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/drawable/tracks_icon.xml" value="0.1645" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/activity_playing_ui.xml" value="0.18" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/albums_view.xml" value="0.2" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/app_bar_main.xml" value="0.12" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/content_main.xml" value="0.16" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/content_playing_ui.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_album_list.xml" value="0.15604959384352288" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_albums.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_first.xml" value="0.22" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_song_ui.xml" value="0.2" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/fragment_tracks.xml" value="0.16" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/layout/tracks_view.xml" value="0.18" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/bariyah/AndroidStudioProjects/MusicPlayer2/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
